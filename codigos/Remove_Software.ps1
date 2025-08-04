@@ -10,7 +10,7 @@ pause
 $softw = read-host "`n`nDigite o nome do software a remover"
 cls
 
-write-host "Software a ser removido é o $softw" -ForegroundColor Green
+write-host "Software a ser removido é o $softw" -ForegroundColor black -BackgroundColor Green
 pause
  
 winget uninstall --name "$softw"
