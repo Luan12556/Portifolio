@@ -17,6 +17,6 @@ Demonstrar minhas competências na administração de sistemas, automação de t
 - `codigos/`: Scripts de automação em PowerShell para facilitar atividades repetitivas e monitoramento.
 
 # Contato
-- LinkedIn: [linkedin.com/in/seulink](https://www.linkedin.com/in/luanalves23/)
+- LinkedIn: [Luan Alves](https://www.linkedin.com/in/luanalves23/)
 - E-mail: luan.souza.la@gmail.com
-- Currículo: [seucurriculo.com](https://drive.google.com/file/d/18FKJKTtOMS6w2HX5khMyCEnU6Ucgof0I/view?usp=sharing)
+- Currículo: [Luan Alves de Souza](https://drive.google.com/file/d/18FKJKTtOMS6w2HX5khMyCEnU6Ucgof0I/view?usp=sharing)
