@@ -10,7 +10,7 @@ Demonstrar minhas competências na administração de sistemas, automação de t
 - CMD
 - Power BI
 - Microsoft 365
-*(Mais ferramentas serão adicionadas conforme novos projetos forem publicados)*
+- *(Mais ferramentas serão adicionadas conforme novos projetos forem publicados)*
 
 # Organização
 - `dashboards/`: Visualizações criadas em Power BI com foco em análise e exibir informações de forma pratica e ilustradas.
